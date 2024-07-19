@@ -76,13 +76,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Nagachaitanyababusiga&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
----
-
-<!--## 📊 Weekly Development Breakdown--!>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
 
 ## 📫 Contact Me
 <p align="center">
