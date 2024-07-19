@@ -14,7 +14,7 @@
 ---
 
 ## Connect with me
-<p align="center">
+<p align="space-around">
   <a href="https://www.linkedin.com/in/naga-chaitanya-babu-siga/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -26,7 +26,7 @@
 ---
 
 ## Languages and Tools
-<p align="center">
+<p align="space-around">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
